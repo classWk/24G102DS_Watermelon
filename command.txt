@@ -1,0 +1,3 @@
+https://github.com/cjbarnaby/text_descrambler
+
+https://cdnjs.com/libraries/jquery
